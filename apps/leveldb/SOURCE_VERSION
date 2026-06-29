@@ -3,3 +3,7 @@ Upstream: https://github.com/google/leveldb
 Version/ref: 1.23
 Commit: 99b3c03b3284f5886f9ef9a4ef703d57373e61be
 Imported: 2026-06-29
+
+Vendored third-party dependencies from LevelDB upstream submodule pointers:
+- google/benchmark: https://github.com/google/benchmark.git @ bf585a2789e30585b4e3ce6baf11ef2750b54677
+- google/googletest: https://github.com/google/googletest.git @ c27acebba3b3c7d94209e0467b0a801db4af73ed

@@ -21,6 +21,6 @@ Imported on 2026-06-29.
 ## Notes
 
 - The upstream `.git` directories were not copied.
-- No Git submodules are used by this repository.
+- No Git submodules are used by this repository. LevelDB's upstream test and benchmark dependencies are vendored directly under `apps/leveldb/third_party/`.
 - Each application directory includes a `SOURCE_VERSION` file with the upstream repository, selected version/ref, commit, and import date.
 - Upstream licenses remain with their respective source trees.
