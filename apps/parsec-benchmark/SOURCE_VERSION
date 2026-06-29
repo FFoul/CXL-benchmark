@@ -1,0 +1,5 @@
+Name: PARSEC Benchmark
+Upstream: https://github.com/cirosantilli/parsec-benchmark
+Version/ref: 3.0
+Commit: b758a0ed159c1b5f854147c8915f360fac195820
+Imported: 2026-06-29

@@ -1,0 +1,5 @@
+Name: CNN Benchmarks
+Upstream: https://github.com/jcjohnson/cnn-benchmarks
+Version/ref: master
+Commit: 83d441f852134f4a98aa3e665499d9369b6141c9
+Imported: 2026-06-29

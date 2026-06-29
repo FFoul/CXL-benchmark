@@ -1,0 +1,5 @@
+Name: Memcached
+Upstream: https://github.com/memcached/memcached
+Version/ref: 1.6.42
+Commit: f1674f0231e5d291db474c4ad297f5f069d32521
+Imported: 2026-06-29

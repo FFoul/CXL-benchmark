@@ -1,0 +1,5 @@
+Name: Redis
+Upstream: https://github.com/redis/redis
+Version/ref: 8.8.0
+Commit: 5a693aaed0842c4eef21c706b79fa49938ca9f6c
+Imported: 2026-06-29

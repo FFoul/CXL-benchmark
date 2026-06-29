@@ -1,0 +1,5 @@
+Name: TensorFlow Benchmarks
+Upstream: https://github.com/tensorflow/benchmarks
+Version/ref: master
+Commit: 8fb79079265933ad39bea628b777af662f5bf15d
+Imported: 2026-06-29
