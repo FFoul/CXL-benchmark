@@ -9,7 +9,7 @@ This repository vendors source code for benchmark applications used in CXL exper
 | Phoenix-2.0 | `apps/phoenix-2.0` | <https://github.com/kozyraki/phoenix> | `master`, `phoenix-2.0` subdirectory | `1276c8d8f3b82050071d0a7a4b8a352a05d1faab` |
 | DBx1000 | `apps/dbx1000` | <https://github.com/yxymit/DBx1000> | `master` | `5f172a99bd57bed29745df81f72e93f91292bb31` |
 | GeminiGraph | `apps/geminigraph` | <https://github.com/thu-pacman/GeminiGraph> | `master` | `170e7d36794fdcaca077f23bd0cd76e8ccab9e74` |
-| CNN Benchmarks | `apps/cnn-benchmarks` | <https://github.com/jcjohnson/cnn-benchmarks> | `master` | `83d441f852134f4a98aa3e665499d9369b6141c9` |
+| pico-cnn | `apps/pico-cnn` | <https://github.com/ekut-es/pico-cnn> | `v1.0.2` | `8d0aef29feefd2f07c3028e7d49dcbb10fa0cf21` |
 | Redis | `apps/redis` | <https://github.com/redis/redis> | `8.8.0` | `5a693aaed0842c4eef21c706b79fa49938ca9f6c` |
 | Memcached | `apps/memcached` | <https://github.com/memcached/memcached> | `1.6.42` | `f1674f0231e5d291db474c4ad297f5f069d32521` |
 | LevelDB | `apps/leveldb` | <https://github.com/google/leveldb> | `1.23` | `99b3c03b3284f5886f9ef9a4ef703d57373e61be` |
